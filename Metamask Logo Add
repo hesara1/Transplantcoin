@@ -1,0 +1,24 @@
+# Transplantcoin Token update logo in metamask #
+
+## Few steps here ##
+
+##COPY THIS LINK AND GO TO URL##
+
+https://vittominacori.github.io/watch-token/create/
+
+# Select the Binance Smart chain mainnet # 
+# Paste Transplant Token address # // 0x8a3cd8b9a359c81e04b8ed63e5bf9d6babeeebe5
+# Finally paste this link #  // 
+
+
+
+
+
+
+
+#javascript#
+
+const tokenAddress = '0x8a3cd8b9a359C81e04B8ED63E5bF9d6bABEeebe5';
+const tokenSymbol = 'TPC';
+const tokenDecimals = 9;
+const tokenImage = 'https://raw.githubusercontent.com/Transplantcoin/Token-Project/main/transplantcoinbsc.png';
